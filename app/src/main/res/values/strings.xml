@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Повар Кликер</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Повар-Кликер</string>
+    <string name="nav_header_subtitle">Меню</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Помощь</string>
+    <string name="title_activity_change">Повар Биржа</string>
+    <string name="title_activity_payment">Транзакции</string>
+    <string name="title_activity_shop">Магазин</string>
+    <string name="title_activity_setting">Настройки</string>
+    <string name="title_activity_info">Помощь</string>
+    <string name="title_activity_event_chat">EventChatActivity</string>
+    <string name="title_activity_event">EventActivity</string>
+    <string name="title_activity_server_console">ServerConsoleActivity</string>
+</resources>
